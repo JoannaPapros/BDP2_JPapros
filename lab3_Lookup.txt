@@ -1,0 +1,1 @@
+Lookup No Match Output jest to wersja wyników z komponentu Lookup, których nie udało się dopasować pomiędzy łączonymi ze sobą tabelami (brak dopasowania w tabeli referencyjnej) lub nie spełnione zostaną warunki ustawione w komponencie. Aby wyniki się tam zapisały należy ustawić opcje Redirect rows to no match output.
